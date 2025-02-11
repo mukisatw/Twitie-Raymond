@@ -254,7 +254,7 @@ svg:hover {
 
 @media screen and (max-width: 480px) {
   .grid {
-    grid-template-columns: 1fr; /* 2 columns on very small screens */
+    grid-template-columns: 1fr 1fr; /* 2 columns on very small screens */
   }
   
   .search {
